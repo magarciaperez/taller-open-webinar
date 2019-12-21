@@ -4,4 +4,4 @@ Este repositorio contiene información para alojar un proyecto de documentación
 
 ## Recursos adicionales
 
-* [Pagina de descargas de Gig] (https://git-scm.com/downlads)
+* [Pagina de descargas de Git] (https://git-scm.com/downlads)
