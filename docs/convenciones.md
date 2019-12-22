@@ -1,4 +1,4 @@
-### Estilos
+# Estilos segunda version
 
 
 ## Requisitos
@@ -8,6 +8,6 @@
 * tercera conveccion
 * cuarta conveccion
 
-## Imagenes
+### Imagenes
 
-* asi se tratan las imganes
+* asi se tratan las imganes, pues eso
