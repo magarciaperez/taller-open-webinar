@@ -1,10 +1,10 @@
-# Estilos segunda version
+# Estilos tercera version
 
 
 ## Requisitos
 
-* primera conveccion
-* segunda conveccion
+* primera conveccion, version tres
+* segunda conveccion, version tres
 * tercera conveccion
 * cuarta conveccion
 
